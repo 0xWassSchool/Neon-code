@@ -26,7 +26,7 @@ def run():
     return NewPlugin().__body__()
 ```
 
-## How can import my onw plugin?
+## How can import my new plugin?
 
 1. python3 main.py 
 2. terminal command: load-plugin; new_plugin.py
