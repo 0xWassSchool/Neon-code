@@ -5,7 +5,7 @@
 Two wasys to downaload this repo 
 
 
-1. git
+>>> git
 
   git clone https://github.com/0xWasosky/Neon-code.git
   
