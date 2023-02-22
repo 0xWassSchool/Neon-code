@@ -13,13 +13,14 @@
 # **Plugin**
 
 ```python
-from pkg import IPlugin
+from pkg import IPlugin, Window
 
 
 class NewPlugin(IPlugin):
     def __body__(self):
         """
-        The body of your plugin
+        The body of your plugin 
+        >> you can use the Window class for add custom items into the window
         """
 
 def run():
