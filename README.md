@@ -5,9 +5,8 @@
 
 1. git clone https://github.com/0xWasosky/Neon-code.git
 2. cd Neon-code
-3. pip install -r .\requirements.txt
-4. cd editr
-5. python3 main.py -> ( python3 setup.py )
+3. pip install -r .\requirements.txt4
+4. python3 run.py -> ( python3 setup.py )
 
 
 # **Plugin**
