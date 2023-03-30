@@ -45,7 +45,7 @@ def run():
 }
 ```
 
-## How can import my new theme?
+## How can import my own theme?
 
 1. Open APPDATA\\neon_code\\config\\standard.json
 2. Insert your json in the json file and save
